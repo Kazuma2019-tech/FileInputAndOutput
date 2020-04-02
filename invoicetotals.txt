@@ -1,0 +1,13 @@
+Invoice Number:  123
+Customer Number: 345
+Payment:         34.5
+Invoice Number:  124
+Customer Number: 346
+Payment:         561.25
+Invoice Number:  125
+Customer Number: 347
+Payment:         352.35
+Invoice Number:  126
+Customer Number: 345
+Payment:         67.8
+Total:           1015.9
